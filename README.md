@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LiftItHigher](https://github.com/gthellter/LiftItHigher)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📫 How to reach me **drewsworld16@gmail.com**
 
